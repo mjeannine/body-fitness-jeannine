@@ -136,17 +136,7 @@ No installation or build step is needed.
 
 This project started in 2021 as a school web design assignment, where I practised the basics of HTML: headings, lists, links, images, tables, forms and video.
 
-In 2026 I redesigned it into a modern, mobile-friendly site. The main changes:
-
-- Reorganized the files into a clear folder structure with descriptive names
-- Rewrote the HTML with correct, semantic structure (the original had duplicate tags and misplaced elements)
-- Moved all styling into one shared stylesheet and added a full visual design
-- Made every page responsive for mobile
-- Fixed the video, which didn't play online because of a mismatch between the file name and the link
-- Replaced a table of personal contact details with a class schedule, to protect people's privacy
-- Added accessibility features and a working form interaction
-
-## What I learned
+## What I learned in this assignment
 
 - How to structure a website with semantic HTML so it's readable for people and search engines
 - How to build responsive layouts with CSS Grid, Flexbox and media queries
